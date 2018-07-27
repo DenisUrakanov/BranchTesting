@@ -6,5 +6,6 @@ public class Main {
         int firstMasterCommit;
         int secondMasterCommit;
         int thirdMasterCommit;
+        int againInit;
     }
 }
