@@ -12,4 +12,8 @@ public class Artist implements Performer {
     public void makeBadThings(){
         System.out.println("I make bad things");
     }
+    public void makeEvilThings(){
+        System.out.println("I make evil things");
+    }
+
 }
