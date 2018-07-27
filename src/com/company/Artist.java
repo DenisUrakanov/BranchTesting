@@ -9,4 +9,7 @@ public class Artist implements Performer {
     public void makeFunnyThings(){
         System.out.println("I make funny things");
     }
+    public void makeBadThings(){
+        System.out.println("I make bad things");
+    }
 }
